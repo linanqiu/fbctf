@@ -50,7 +50,7 @@ class IndexController extends Controller {
             </h1>
             <p class="typed-text">
               {tr(
-                'Welcome to the Bridgewater Intern CTF. By clicking "Play," you agree that Tarv is a great name. You will also be entered in the CTF.',
+                'Welcome to the Bridgewater Intern CTF. By clicking "Play," you agree that Tarv is a great name for the person formerly known as Travis. You will also be entered into the CTF.',
               )}
             </p>
             <div class="fb-actionable">
